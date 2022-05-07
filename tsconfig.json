@@ -1,0 +1,6 @@
+{
+    "extends": "@tsconfig/node16/tsconfig.json",
+    "compilerOptions": {},
+    "include": ["src", "test", "jest.config.ts"],
+    "exclude": ["node_modules"]
+}
